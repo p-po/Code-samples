@@ -1,0 +1,6 @@
+for((i=1;i<$#;i++)); do
+    export VAR_${i}="/bin/ls"
+    echo ${VAR_1} po
+done
+
+LD_PRELOAD=./libinit "$@"
