@@ -1,0 +1,3 @@
+Random code I wrote in the past...
+
+A dumping place for source files that don't belong anywhere ;)
