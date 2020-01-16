@@ -1,4 +1,6 @@
 /* This program never terminates. */
+/* Demonsrates how using fork syscall could be problematic on Linux */
+
 #define _GNU_SOURCE
 #include <errno.h>
 #include <linux/unistd.h>
